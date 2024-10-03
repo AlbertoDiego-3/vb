@@ -88,6 +88,7 @@
               />
               <span class="skill__info">info habilidad en</span>
               <input class="skill__button" type="submit" name="button_html" value="SHOW PROJECT">
+              <a href = "https://github.com/AlbertoDiego-3/vb/blob/main/README.md">mi bigrafia</a>
             </li>
             <li class="skills-list__skill skill">
               <img
@@ -129,3 +130,4 @@
     </footer>
   </body>
 </html>
+
